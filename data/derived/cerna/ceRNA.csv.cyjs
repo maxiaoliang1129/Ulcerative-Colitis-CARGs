@@ -1,0 +1,5238 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.10.2",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "ceRNA.csv",
+    "name" : "ceRNA.csv",
+    "SUID" : 811,
+    "__Annotations" : [ ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "1347",
+        "ClosenessCentrality" : 0.3012987012987013,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9355842911877394,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-29a-3p",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-29a-3p",
+        "SelfLoops" : 0,
+        "SUID" : 1347,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3189655172413794,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 35.0
+      },
+      "position" : {
+        "x" : -315.51629958310116,
+        "y" : 100.85862896455926
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1343",
+        "ClosenessCentrality" : 0.3012987012987013,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9355842911877394,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-142-5p",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-142-5p",
+        "SelfLoops" : 0,
+        "SUID" : 1343,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3189655172413794,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 35.0
+      },
+      "position" : {
+        "x" : -234.07286802604622,
+        "y" : 265.185981000425
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1339",
+        "ClosenessCentrality" : 0.3012987012987013,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9355842911877394,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-1243",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-1243",
+        "SelfLoops" : 0,
+        "SUID" : 1339,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3189655172413794,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 35.0
+      },
+      "position" : {
+        "x" : -384.17992978572437,
+        "y" : 132.6790685861547
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1335",
+        "ClosenessCentrality" : 0.3012987012987013,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9355842911877394,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-1285-5p",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-1285-5p",
+        "SelfLoops" : 0,
+        "SUID" : 1335,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3189655172413794,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 35.0
+      },
+      "position" : {
+        "x" : -274.6628313832492,
+        "y" : 229.6401411349718
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1331",
+        "ClosenessCentrality" : 0.3012987012987013,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9355842911877394,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-5003-5p",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-5003-5p",
+        "SelfLoops" : 0,
+        "SUID" : 1331,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3189655172413794,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 35.0
+      },
+      "position" : {
+        "x" : -99.21697167352936,
+        "y" : 28.967965149006623
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1323",
+        "ClosenessCentrality" : 0.3012987012987013,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9355842911877394,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-653-3p",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-653-3p",
+        "SelfLoops" : 0,
+        "SUID" : 1323,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3189655172413794,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 35.0
+      },
+      "position" : {
+        "x" : -62.80448789433726,
+        "y" : 217.16579214048656
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1317",
+        "ClosenessCentrality" : 0.3012987012987013,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9355842911877394,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-141-5p",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-141-5p",
+        "SelfLoops" : 0,
+        "SUID" : 1317,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3189655172413794,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 35.0
+      },
+      "position" : {
+        "x" : -172.5244646840304,
+        "y" : 205.16761944307535
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1313",
+        "ClosenessCentrality" : 0.3012987012987013,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9355842911877394,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-3688-3p",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-3688-3p",
+        "SelfLoops" : 0,
+        "SUID" : 1313,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3189655172413794,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 35.0
+      },
+      "position" : {
+        "x" : -235.14946468403062,
+        "y" : -10.33216693387844
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1307",
+        "ClosenessCentrality" : 0.3012987012987013,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9355842911877394,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-4461",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-4461",
+        "SelfLoops" : 0,
+        "SUID" : 1307,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3189655172413794,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 35.0
+      },
+      "position" : {
+        "x" : -117.90395076801485,
+        "y" : 136.7600266696375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1299",
+        "ClosenessCentrality" : 0.3012987012987013,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9355842911877394,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-3148",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-3148",
+        "SelfLoops" : 0,
+        "SUID" : 1299,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3189655172413794,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 35.0
+      },
+      "position" : {
+        "x" : -381.41767610124646,
+        "y" : 80.01510696953446
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1291",
+        "ClosenessCentrality" : 0.3012987012987013,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9355842911877394,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-337-3p",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-337-3p",
+        "SelfLoops" : 0,
+        "SUID" : 1291,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3189655172413794,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 35.0
+      },
+      "position" : {
+        "x" : -68.86254411674844,
+        "y" : 54.90211651338724
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1285",
+        "ClosenessCentrality" : 0.3012987012987013,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9355842911877394,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-1224-5p",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-1224-5p",
+        "SelfLoops" : 0,
+        "SUID" : 1285,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3189655172413794,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 35.0
+      },
+      "position" : {
+        "x" : -294.8429088067604,
+        "y" : -35.14859865017384
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1281",
+        "ClosenessCentrality" : 0.3012987012987013,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9355842911877394,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-4689",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-4689",
+        "SelfLoops" : 0,
+        "SUID" : 1281,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3189655172413794,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 35.0
+      },
+      "position" : {
+        "x" : -74.05516911972293,
+        "y" : 160.76545362881603
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1277",
+        "ClosenessCentrality" : 0.3012987012987013,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9355842911877394,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-6858-5p",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-6858-5p",
+        "SelfLoops" : 0,
+        "SUID" : 1277,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3189655172413794,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 35.0
+      },
+      "position" : {
+        "x" : -137.95952327778048,
+        "y" : 247.7716233493254
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1259",
+        "ClosenessCentrality" : 0.3012987012987013,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9355842911877394,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-338-5p",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-338-5p",
+        "SelfLoops" : 0,
+        "SUID" : 1259,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3189655172413794,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 35.0
+      },
+      "position" : {
+        "x" : -334.97100293843766,
+        "y" : 15.136477903378761
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1249",
+        "ClosenessCentrality" : 0.2184557438794727,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9006226053639845,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-6758-5p",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-6758-5p",
+        "SelfLoops" : 0,
+        "SUID" : 1249,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.577586206896552,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 23.0
+      },
+      "position" : {
+        "x" : 420.7438801060234,
+        "y" : -293.9967610868269
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1245",
+        "ClosenessCentrality" : 0.2184557438794727,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9006226053639845,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-6856-5p",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-6856-5p",
+        "SelfLoops" : 0,
+        "SUID" : 1245,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.577586206896552,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 23.0
+      },
+      "position" : {
+        "x" : 371.4484618958016,
+        "y" : -186.6162950843404
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1231",
+        "ClosenessCentrality" : 0.2184557438794727,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9006226053639845,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-4270",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-4270",
+        "SelfLoops" : 0,
+        "SUID" : 1231,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.577586206896552,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 23.0
+      },
+      "position" : {
+        "x" : 190.47363155863215,
+        "y" : -185.2681415936424
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1227",
+        "ClosenessCentrality" : 0.2184557438794727,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9006226053639845,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-4441",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-4441",
+        "SelfLoops" : 0,
+        "SUID" : 1227,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.577586206896552,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 23.0
+      },
+      "position" : {
+        "x" : 405.9472280741038,
+        "y" : -237.74474853995616
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1223",
+        "ClosenessCentrality" : 0.2184557438794727,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9006226053639845,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-6754-5p",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-6754-5p",
+        "SelfLoops" : 0,
+        "SUID" : 1223,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.577586206896552,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 23.0
+      },
+      "position" : {
+        "x" : 472.46356393784777,
+        "y" : -208.5030798387843
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1219",
+        "ClosenessCentrality" : 0.2184557438794727,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9006226053639845,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-4685-5p",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-4685-5p",
+        "SelfLoops" : 0,
+        "SUID" : 1219,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.577586206896552,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 23.0
+      },
+      "position" : {
+        "x" : 359.4750209185998,
+        "y" : -345.9037776036803
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1215",
+        "ClosenessCentrality" : 0.2184557438794727,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9006226053639845,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-7113-5p",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-7113-5p",
+        "SelfLoops" : 0,
+        "SUID" : 1215,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.577586206896552,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 23.0
+      },
+      "position" : {
+        "x" : 292.85694244308957,
+        "y" : -374.2674020839267
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1211",
+        "ClosenessCentrality" : 0.2184557438794727,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9006226053639845,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-6837-5p",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-6837-5p",
+        "SelfLoops" : 0,
+        "SUID" : 1211,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.577586206896552,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 23.0
+      },
+      "position" : {
+        "x" : 336.50036042535675,
+        "y" : -459.52489694376874
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1201",
+        "ClosenessCentrality" : 0.2184557438794727,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9006226053639845,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-766-5p",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-766-5p",
+        "SelfLoops" : 0,
+        "SUID" : 1201,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.577586206896552,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 23.0
+      },
+      "position" : {
+        "x" : 427.8018706659539,
+        "y" : -391.50375091356966
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1193",
+        "ClosenessCentrality" : 0.3012987012987013,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9355842911877394,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-29b-3p",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-29b-3p",
+        "SelfLoops" : 0,
+        "SUID" : 1193,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3189655172413794,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 35.0
+      },
+      "position" : {
+        "x" : -291.846425133249,
+        "y" : 44.25761578096535
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1187",
+        "ClosenessCentrality" : 0.27884615384615385,
+        "Eccentricity" : 6,
+        "Degree" : 23,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.92816091954023,
+        "Stress" : 33650,
+        "TopologicalCoefficient" : 0.09565217391304348,
+        "shared_name" : "CCL11",
+        "BetweennessCentrality" : 0.31271826105355244,
+        "NumberOfUndirectedEdges" : 23,
+        "name" : "CCL11",
+        "SelfLoops" : 0,
+        "SUID" : 1187,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.586206896551724,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 1.9565217391304348
+      },
+      "position" : {
+        "x" : 297.61899641854745,
+        "y" : -268.33267668806013
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1181",
+        "ClosenessCentrality" : 0.42962962962962964,
+        "Eccentricity" : 6,
+        "Degree" : 35,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9631226053639845,
+        "Stress" : 40424,
+        "TopologicalCoefficient" : 0.03305322128851541,
+        "shared_name" : "CLDN1",
+        "BetweennessCentrality" : 0.644258772665442,
+        "NumberOfUndirectedEdges" : 35,
+        "name" : "CLDN1",
+        "SelfLoops" : 0,
+        "SUID" : 1181,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.3275862068965516,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.6857142857142855
+      },
+      "position" : {
+        "x" : -180.32551769308165,
+        "y" : 82.43014179713785
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1179",
+        "ClosenessCentrality" : 0.3012987012987013,
+        "Eccentricity" : 7,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9355842911877394,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "hsa-miR-155-5p",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "hsa-miR-155-5p",
+        "SelfLoops" : 0,
+        "SUID" : 1179,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3189655172413794,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 35.0
+      },
+      "position" : {
+        "x" : -329.17833431293616,
+        "y" : 204.62062237276285
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1171",
+        "ClosenessCentrality" : 0.23481781376518218,
+        "Eccentricity" : 8,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9094827586206896,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "COLCA1",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "COLCA1",
+        "SelfLoops" : 0,
+        "SUID" : 1171,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.258620689655173,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.0
+      },
+      "position" : {
+        "x" : 114.50765345435393,
+        "y" : 270.70265052129326
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1161",
+        "ClosenessCentrality" : 0.344213649851632,
+        "Eccentricity" : 5,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9470785440613027,
+        "Stress" : 6614,
+        "TopologicalCoefficient" : 0.5135135135135135,
+        "shared_name" : "hsa-miR-3928-3p",
+        "BetweennessCentrality" : 0.04598716771867144,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "hsa-miR-3928-3p",
+        "SelfLoops" : 0,
+        "SUID" : 1161,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.9051724137931036,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 20.0
+      },
+      "position" : {
+        "x" : 39.758205260213074,
+        "y" : 69.4931385926472
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1157",
+        "ClosenessCentrality" : 0.344213649851632,
+        "Eccentricity" : 5,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9470785440613027,
+        "Stress" : 6614,
+        "TopologicalCoefficient" : 0.5135135135135135,
+        "shared_name" : "hsa-miR-3915",
+        "BetweennessCentrality" : 0.04598716771867144,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "hsa-miR-3915",
+        "SelfLoops" : 0,
+        "SUID" : 1157,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.9051724137931036,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 20.0
+      },
+      "position" : {
+        "x" : -6.489464198528918,
+        "y" : -24.784640962172343
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1153",
+        "ClosenessCentrality" : 0.29743589743589743,
+        "Eccentricity" : 4,
+        "Degree" : 5,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9343869731800767,
+        "Stress" : 13256,
+        "TopologicalCoefficient" : 0.5333333333333333,
+        "shared_name" : "ELFN2",
+        "BetweennessCentrality" : 0.08816563818169258,
+        "NumberOfUndirectedEdges" : 5,
+        "name" : "ELFN2",
+        "SelfLoops" : 0,
+        "SUID" : 1153,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3620689655172415,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.6
+      },
+      "position" : {
+        "x" : 124.80592746760605,
+        "y" : -58.98460491549931
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1149",
+        "ClosenessCentrality" : 0.2636363636363636,
+        "Eccentricity" : 6,
+        "Degree" : 3,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9224137931034482,
+        "Stress" : 942,
+        "TopologicalCoefficient" : 0.5,
+        "shared_name" : "LINC01556",
+        "BetweennessCentrality" : 0.004495319857940916,
+        "NumberOfUndirectedEdges" : 3,
+        "name" : "LINC01556",
+        "SelfLoops" : 0,
+        "SUID" : 1149,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.793103448275862,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 3.0
+      },
+      "position" : {
+        "x" : 97.76583377788339,
+        "y" : 138.45573589815314
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1147",
+        "ClosenessCentrality" : 0.30287206266318534,
+        "Eccentricity" : 7,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9360632183908046,
+        "Stress" : 214,
+        "TopologicalCoefficient" : 0.5294117647058824,
+        "shared_name" : "hsa-miR-10b-3p",
+        "BetweennessCentrality" : 0.0041495161510154074,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "hsa-miR-10b-3p",
+        "SelfLoops" : 0,
+        "SUID" : 1147,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3017241379310347,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 19.0
+      },
+      "position" : {
+        "x" : -20.8029375844211,
+        "y" : 114.44255230440312
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1143",
+        "ClosenessCentrality" : 0.23481781376518218,
+        "Eccentricity" : 8,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9094827586206896,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "MALAT1",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "MALAT1",
+        "SelfLoops" : 0,
+        "SUID" : 1143,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.258620689655173,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.0
+      },
+      "position" : {
+        "x" : -492.1533900364059,
+        "y" : 110.80717962540189
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1139",
+        "ClosenessCentrality" : 0.23293172690763053,
+        "Eccentricity" : 8,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9085249042145593,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "CYTOR",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "CYTOR",
+        "SelfLoops" : 0,
+        "SUID" : 1139,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.293103448275862,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.0
+      },
+      "position" : {
+        "x" : -209.36367326713915,
+        "y" : 375.41811623009954
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1137",
+        "ClosenessCentrality" : 0.30287206266318534,
+        "Eccentricity" : 7,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9360632183908046,
+        "Stress" : 974,
+        "TopologicalCoefficient" : 0.5,
+        "shared_name" : "hsa-miR-376c-3p",
+        "BetweennessCentrality" : 0.017241379310344827,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "hsa-miR-376c-3p",
+        "SelfLoops" : 0,
+        "SUID" : 1137,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3017241379310347,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 18.0
+      },
+      "position" : {
+        "x" : -203.39784725239,
+        "y" : 314.5083176852628
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1133",
+        "ClosenessCentrality" : 0.23481781376518218,
+        "Eccentricity" : 8,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9094827586206896,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "SOX2-OT",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "SOX2-OT",
+        "SelfLoops" : 0,
+        "SUID" : 1133,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.258620689655173,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.0
+      },
+      "position" : {
+        "x" : -517.981669378018,
+        "y" : 159.0409170538229
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1129",
+        "ClosenessCentrality" : 0.18012422360248448,
+        "Eccentricity" : 8,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.8735632183908045,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "HOTAIR",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "HOTAIR",
+        "SelfLoops" : 0,
+        "SUID" : 1129,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 5.551724137931035,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.0
+      },
+      "position" : {
+        "x" : 602.1376882791803,
+        "y" : -327.0367540788967
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1127",
+        "ClosenessCentrality" : 0.21928166351606804,
+        "Eccentricity" : 7,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9011015325670498,
+        "Stress" : 1552,
+        "TopologicalCoefficient" : 0.5,
+        "shared_name" : "hsa-miR-148b-3p",
+        "BetweennessCentrality" : 0.017241379310344827,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "hsa-miR-148b-3p",
+        "SelfLoops" : 0,
+        "SUID" : 1127,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.560344827586207,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 12.0
+      },
+      "position" : {
+        "x" : 472.52621529286836,
+        "y" : -324.9260936420056
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1123",
+        "ClosenessCentrality" : 0.23293172690763053,
+        "Eccentricity" : 8,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9085249042145593,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "CT62",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "CT62",
+        "SelfLoops" : 0,
+        "SUID" : 1123,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.293103448275862,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.0
+      },
+      "position" : {
+        "x" : -363.07541923256446,
+        "y" : 337.16530486081336
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1121",
+        "ClosenessCentrality" : 0.30287206266318534,
+        "Eccentricity" : 7,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9360632183908046,
+        "Stress" : 974,
+        "TopologicalCoefficient" : 0.5,
+        "shared_name" : "hsa-miR-3117-5p",
+        "BetweennessCentrality" : 0.017241379310344827,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "hsa-miR-3117-5p",
+        "SelfLoops" : 0,
+        "SUID" : 1121,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3017241379310347,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 18.0
+      },
+      "position" : {
+        "x" : -340.0199915313702,
+        "y" : 288.86401439343274
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1117",
+        "ClosenessCentrality" : 0.23293172690763053,
+        "Eccentricity" : 8,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9085249042145593,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "TMEM105",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "TMEM105",
+        "SelfLoops" : 0,
+        "SUID" : 1117,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.293103448275862,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.0
+      },
+      "position" : {
+        "x" : -100.3995009038578,
+        "y" : 364.49510315788245
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1115",
+        "ClosenessCentrality" : 0.30287206266318534,
+        "Eccentricity" : 7,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9360632183908046,
+        "Stress" : 974,
+        "TopologicalCoefficient" : 0.5,
+        "shared_name" : "hsa-miR-6124",
+        "BetweennessCentrality" : 0.017241379310344827,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "hsa-miR-6124",
+        "SelfLoops" : 0,
+        "SUID" : 1115,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3017241379310347,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 18.0
+      },
+      "position" : {
+        "x" : -152.81454927250337,
+        "y" : 294.5739013782825
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1107",
+        "ClosenessCentrality" : 0.2555066079295154,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9190613026819923,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "LINC00632",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "LINC00632",
+        "SelfLoops" : 0,
+        "SUID" : 1107,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.913793103448276,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 3.0
+      },
+      "position" : {
+        "x" : -353.1595965199674,
+        "y" : -137.0062086819254
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1105",
+        "ClosenessCentrality" : 0.3421828908554572,
+        "Eccentricity" : 5,
+        "Degree" : 3,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9465996168582377,
+        "Stress" : 2706,
+        "TopologicalCoefficient" : 0.3619047619047619,
+        "shared_name" : "hsa-miR-1304-3p",
+        "BetweennessCentrality" : 0.029579618251082396,
+        "NumberOfUndirectedEdges" : 3,
+        "name" : "hsa-miR-1304-3p",
+        "SelfLoops" : 0,
+        "SUID" : 1105,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.9224137931034484,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 13.666666666666666
+      },
+      "position" : {
+        "x" : -227.08722748594678,
+        "y" : -113.68873607041238
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1101",
+        "ClosenessCentrality" : 0.34017595307917886,
+        "Eccentricity" : 5,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9461206896551724,
+        "Stress" : 2408,
+        "TopologicalCoefficient" : 0.5428571428571428,
+        "shared_name" : "hsa-miR-1470",
+        "BetweennessCentrality" : 0.012338238940737632,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "hsa-miR-1470",
+        "SelfLoops" : 0,
+        "SUID" : 1101,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.939655172413793,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 20.0
+      },
+      "position" : {
+        "x" : -18.264364909510874,
+        "y" : -90.8536149680977
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1097",
+        "ClosenessCentrality" : 0.34017595307917886,
+        "Eccentricity" : 5,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9461206896551724,
+        "Stress" : 2408,
+        "TopologicalCoefficient" : 0.5428571428571428,
+        "shared_name" : "hsa-miR-4667-3p",
+        "BetweennessCentrality" : 0.012338238940737632,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "hsa-miR-4667-3p",
+        "SelfLoops" : 0,
+        "SUID" : 1097,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.939655172413793,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 20.0
+      },
+      "position" : {
+        "x" : -138.43922908832735,
+        "y" : -43.683759951456565
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1093",
+        "ClosenessCentrality" : 0.3005181347150259,
+        "Eccentricity" : 4,
+        "Degree" : 5,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9353448275862069,
+        "Stress" : 9360,
+        "TopologicalCoefficient" : 0.32,
+        "shared_name" : "LINC00598",
+        "BetweennessCentrality" : 0.05819777577718583,
+        "NumberOfUndirectedEdges" : 5,
+        "name" : "LINC00598",
+        "SelfLoops" : 0,
+        "SUID" : 1093,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3275862068965516,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.6
+      },
+      "position" : {
+        "x" : -80.83174617817112,
+        "y" : -162.40775897489414
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1091",
+        "ClosenessCentrality" : 0.34017595307917886,
+        "Eccentricity" : 5,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9461206896551724,
+        "Stress" : 2408,
+        "TopologicalCoefficient" : 0.5428571428571428,
+        "shared_name" : "hsa-miR-642a-5p",
+        "BetweennessCentrality" : 0.012338238940737632,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "hsa-miR-642a-5p",
+        "SelfLoops" : 0,
+        "SUID" : 1091,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.939655172413793,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 20.0
+      },
+      "position" : {
+        "x" : -171.30165584613977,
+        "y" : -78.47529437528463
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1087",
+        "ClosenessCentrality" : 0.31607629427792916,
+        "Eccentricity" : 5,
+        "Degree" : 4,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9398946360153256,
+        "Stress" : 14044,
+        "TopologicalCoefficient" : 0.25925925925925924,
+        "shared_name" : "hsa-miR-7106-5p",
+        "BetweennessCentrality" : 0.19760460163658522,
+        "NumberOfUndirectedEdges" : 4,
+        "name" : "hsa-miR-7106-5p",
+        "SelfLoops" : 0,
+        "SUID" : 1087,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.163793103448276,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 8.0
+      },
+      "position" : {
+        "x" : 49.50577937283557,
+        "y" : -303.7684096430719
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1083",
+        "ClosenessCentrality" : 0.23293172690763053,
+        "Eccentricity" : 8,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9085249042145593,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "ZNF781",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "ZNF781",
+        "SelfLoops" : 0,
+        "SUID" : 1083,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.293103448275862,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.0
+      },
+      "position" : {
+        "x" : 126.2005282130385,
+        "y" : 209.09534256177935
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1081",
+        "ClosenessCentrality" : 0.30287206266318534,
+        "Eccentricity" : 7,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9360632183908046,
+        "Stress" : 974,
+        "TopologicalCoefficient" : 0.5,
+        "shared_name" : "hsa-miR-4286",
+        "BetweennessCentrality" : 0.017241379310344827,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "hsa-miR-4286",
+        "SelfLoops" : 0,
+        "SUID" : 1081,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3017241379310347,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 18.0
+      },
+      "position" : {
+        "x" : 17.7063688592779,
+        "y" : 181.44916944912856
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1075",
+        "ClosenessCentrality" : 0.18181818181818182,
+        "Eccentricity" : 8,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.875,
+        "Stress" : 4,
+        "TopologicalCoefficient" : 0.8333333333333334,
+        "shared_name" : "LINC00955",
+        "BetweennessCentrality" : 8.745627186406794E-5,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "LINC00955",
+        "SelfLoops" : 0,
+        "SUID" : 1075,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 5.5,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 3.5
+      },
+      "position" : {
+        "x" : 243.61201940873337,
+        "y" : -503.16056035484587
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1071",
+        "ClosenessCentrality" : 0.2436974789915966,
+        "Eccentricity" : 6,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9137931034482758,
+        "Stress" : 1488,
+        "TopologicalCoefficient" : 0.6,
+        "shared_name" : "DNAH10OS",
+        "BetweennessCentrality" : 0.00966707670792056,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "DNAH10OS",
+        "SelfLoops" : 0,
+        "SUID" : 1071,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.103448275862069,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.0
+      },
+      "position" : {
+        "x" : 52.72476427460579,
+        "y" : -423.49058989606925
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1067",
+        "ClosenessCentrality" : 0.18012422360248448,
+        "Eccentricity" : 8,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.8735632183908045,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "CASP16P",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "CASP16P",
+        "SelfLoops" : 0,
+        "SUID" : 1067,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 5.551724137931035,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.0
+      },
+      "position" : {
+        "x" : 567.6406108051873,
+        "y" : -249.65050872503016
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1065",
+        "ClosenessCentrality" : 0.21928166351606804,
+        "Eccentricity" : 7,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9011015325670498,
+        "Stress" : 1552,
+        "TopologicalCoefficient" : 0.5,
+        "shared_name" : "hsa-miR-6077",
+        "BetweennessCentrality" : 0.017241379310344827,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "hsa-miR-6077",
+        "SelfLoops" : 0,
+        "SUID" : 1065,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.560344827586207,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 12.0
+      },
+      "position" : {
+        "x" : 485.8879473666604,
+        "y" : -269.17918561424375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1061",
+        "ClosenessCentrality" : 0.2338709677419355,
+        "Eccentricity" : 8,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9090038314176245,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "TRIM16L",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "TRIM16L",
+        "SelfLoops" : 0,
+        "SUID" : 1061,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.275862068965517,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 3.0
+      },
+      "position" : {
+        "x" : -54.888460543985225,
+        "y" : 316.5053204599861
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1057",
+        "ClosenessCentrality" : 0.22011385199240988,
+        "Eccentricity" : 7,
+        "Degree" : 3,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9015804597701149,
+        "Stress" : 3078,
+        "TopologicalCoefficient" : 0.3787878787878788,
+        "shared_name" : "hsa-miR-5011-5p",
+        "BetweennessCentrality" : 0.011838730180746278,
+        "NumberOfUndirectedEdges" : 3,
+        "name" : "hsa-miR-5011-5p",
+        "SelfLoops" : 0,
+        "SUID" : 1057,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.543103448275862,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 9.333333333333334
+      },
+      "position" : {
+        "x" : 243.61292088034747,
+        "y" : -409.7972082567544
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1053",
+        "ClosenessCentrality" : 0.22095238095238096,
+        "Eccentricity" : 7,
+        "Degree" : 4,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9020593869731801,
+        "Stress" : 4182,
+        "TopologicalCoefficient" : 0.29545454545454547,
+        "shared_name" : "hsa-miR-190a-3p",
+        "BetweennessCentrality" : 0.019462693272137777,
+        "NumberOfUndirectedEdges" : 4,
+        "name" : "hsa-miR-190a-3p",
+        "SelfLoops" : 0,
+        "SUID" : 1053,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.525862068965517,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 7.5
+      },
+      "position" : {
+        "x" : 156.91597387598696,
+        "y" : -454.5553832244796
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1049",
+        "ClosenessCentrality" : 0.18238993710691825,
+        "Eccentricity" : 8,
+        "Degree" : 3,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.8754789272030652,
+        "Stress" : 14,
+        "TopologicalCoefficient" : 0.6666666666666666,
+        "shared_name" : "FAM182B",
+        "BetweennessCentrality" : 3.623188405797101E-4,
+        "NumberOfUndirectedEdges" : 3,
+        "name" : "FAM182B",
+        "SelfLoops" : 0,
+        "SUID" : 1049,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 5.482758620689655,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 3.0
+      },
+      "position" : {
+        "x" : 122.94007933142771,
+        "y" : -369.6537832689608
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1047",
+        "ClosenessCentrality" : 0.21928166351606804,
+        "Eccentricity" : 7,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9011015325670498,
+        "Stress" : 1536,
+        "TopologicalCoefficient" : 0.5454545454545454,
+        "shared_name" : "hsa-miR-1277-5p",
+        "BetweennessCentrality" : 0.004829829102656376,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "hsa-miR-1277-5p",
+        "SelfLoops" : 0,
+        "SUID" : 1047,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.560344827586207,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 13.0
+      },
+      "position" : {
+        "x" : 212.9063802957832,
+        "y" : -331.6156973314603
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1043",
+        "ClosenessCentrality" : 0.2595078299776286,
+        "Eccentricity" : 5,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9207375478927202,
+        "Stress" : 2176,
+        "TopologicalCoefficient" : 0.5869565217391305,
+        "shared_name" : "hsa-miR-4716-3p",
+        "BetweennessCentrality" : 0.009253597589681816,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "hsa-miR-4716-3p",
+        "SelfLoops" : 0,
+        "SUID" : 1043,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.853448275862069,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 14.5
+      },
+      "position" : {
+        "x" : 243.385924964073,
+        "y" : -230.130386056149
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1039",
+        "ClosenessCentrality" : 0.2595078299776286,
+        "Eccentricity" : 5,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9207375478927202,
+        "Stress" : 2176,
+        "TopologicalCoefficient" : 0.5869565217391305,
+        "shared_name" : "hsa-miR-6794-5p",
+        "BetweennessCentrality" : 0.009253597589681816,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "hsa-miR-6794-5p",
+        "SelfLoops" : 0,
+        "SUID" : 1039,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.853448275862069,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 14.5
+      },
+      "position" : {
+        "x" : 250.8740832370533,
+        "y" : -159.88893718209872
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1035",
+        "ClosenessCentrality" : 0.2595078299776286,
+        "Eccentricity" : 5,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9207375478927202,
+        "Stress" : 2176,
+        "TopologicalCoefficient" : 0.5869565217391305,
+        "shared_name" : "hsa-miR-3150b-3p",
+        "BetweennessCentrality" : 0.009253597589681816,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "hsa-miR-3150b-3p",
+        "SelfLoops" : 0,
+        "SUID" : 1035,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.853448275862069,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 14.5
+      },
+      "position" : {
+        "x" : 179.13300250088605,
+        "y" : -270.18850204401883
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1031",
+        "ClosenessCentrality" : 0.2595078299776286,
+        "Eccentricity" : 5,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9207375478927202,
+        "Stress" : 2176,
+        "TopologicalCoefficient" : 0.5869565217391305,
+        "shared_name" : "hsa-miR-4784",
+        "BetweennessCentrality" : 0.009253597589681816,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "hsa-miR-4784",
+        "SelfLoops" : 0,
+        "SUID" : 1031,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.853448275862069,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 14.5
+      },
+      "position" : {
+        "x" : 125.41701012192763,
+        "y" : -220.30320444096398
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1027",
+        "ClosenessCentrality" : 0.2595078299776286,
+        "Eccentricity" : 5,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9207375478927202,
+        "Stress" : 2176,
+        "TopologicalCoefficient" : 0.5869565217391305,
+        "shared_name" : "hsa-miR-625-5p",
+        "BetweennessCentrality" : 0.009253597589681816,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "hsa-miR-625-5p",
+        "SelfLoops" : 0,
+        "SUID" : 1027,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.853448275862069,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 14.5
+      },
+      "position" : {
+        "x" : 323.3870837070698,
+        "y" : -131.14919089334285
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1023",
+        "ClosenessCentrality" : 0.2606741573033708,
+        "Eccentricity" : 5,
+        "Degree" : 3,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9212164750957855,
+        "Stress" : 4322,
+        "TopologicalCoefficient" : 0.3888888888888889,
+        "shared_name" : "hsa-miR-1321",
+        "BetweennessCentrality" : 0.02265509969487517,
+        "NumberOfUndirectedEdges" : 3,
+        "name" : "hsa-miR-1321",
+        "SelfLoops" : 0,
+        "SUID" : 1023,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.836206896551724,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 10.333333333333334
+      },
+      "position" : {
+        "x" : 241.32314527037738,
+        "y" : -96.46696991446788
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1019",
+        "ClosenessCentrality" : 0.2606741573033708,
+        "Eccentricity" : 5,
+        "Degree" : 3,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9212164750957855,
+        "Stress" : 4322,
+        "TopologicalCoefficient" : 0.3888888888888889,
+        "shared_name" : "hsa-miR-4739",
+        "BetweennessCentrality" : 0.02265509969487517,
+        "NumberOfUndirectedEdges" : 3,
+        "name" : "hsa-miR-4739",
+        "SelfLoops" : 0,
+        "SUID" : 1019,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.836206896551724,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 10.333333333333334
+      },
+      "position" : {
+        "x" : 252.57214467065444,
+        "y" : -20.90992516117608
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1015",
+        "ClosenessCentrality" : 0.20863309352517986,
+        "Eccentricity" : 6,
+        "Degree" : 3,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.8946360153256704,
+        "Stress" : 6,
+        "TopologicalCoefficient" : 1.0,
+        "shared_name" : "C10orf55",
+        "BetweennessCentrality" : 1.4992503748125936E-4,
+        "NumberOfUndirectedEdges" : 3,
+        "name" : "C10orf55",
+        "SelfLoops" : 0,
+        "SUID" : 1015,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.793103448275862,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 3.0
+      },
+      "position" : {
+        "x" : 330.53813230994353,
+        "y" : 22.222025446860272
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1013",
+        "ClosenessCentrality" : 0.2606741573033708,
+        "Eccentricity" : 5,
+        "Degree" : 3,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9212164750957855,
+        "Stress" : 4322,
+        "TopologicalCoefficient" : 0.3888888888888889,
+        "shared_name" : "hsa-miR-4756-5p",
+        "BetweennessCentrality" : 0.02265509969487517,
+        "NumberOfUndirectedEdges" : 3,
+        "name" : "hsa-miR-4756-5p",
+        "SelfLoops" : 0,
+        "SUID" : 1013,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.836206896551724,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 10.333333333333334
+      },
+      "position" : {
+        "x" : 370.930929263395,
+        "y" : -81.2348632144783
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1009",
+        "ClosenessCentrality" : 0.30606860158311344,
+        "Eccentricity" : 7,
+        "Degree" : 4,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9370210727969349,
+        "Stress" : 2624,
+        "TopologicalCoefficient" : 0.27205882352941174,
+        "shared_name" : "hsa-miR-5100",
+        "BetweennessCentrality" : 0.030324795489002503,
+        "NumberOfUndirectedEdges" : 4,
+        "name" : "hsa-miR-5100",
+        "SelfLoops" : 0,
+        "SUID" : 1009,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.2672413793103448,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 10.25
+      },
+      "position" : {
+        "x" : 11.313456458547648,
+        "y" : 231.5921799899504
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1005",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 4,
+        "Degree" : 6,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 11430,
+        "TopologicalCoefficient" : 0.3888888888888889,
+        "shared_name" : "BDNF-AS",
+        "BetweennessCentrality" : 0.0890309202077696,
+        "NumberOfUndirectedEdges" : 6,
+        "name" : "BDNF-AS",
+        "SelfLoops" : 0,
+        "SUID" : 1005,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.1666666666666665
+      },
+      "position" : {
+        "x" : 80.43604644041038,
+        "y" : -141.57484117423627
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1003",
+        "ClosenessCentrality" : 0.3483483483483484,
+        "Eccentricity" : 5,
+        "Degree" : 3,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9480363984674329,
+        "Stress" : 11494,
+        "TopologicalCoefficient" : 0.3504273504273504,
+        "shared_name" : "hsa-miR-3942-3p",
+        "BetweennessCentrality" : 0.1006324526475594,
+        "NumberOfUndirectedEdges" : 3,
+        "name" : "hsa-miR-3942-3p",
+        "SelfLoops" : 0,
+        "SUID" : 1003,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.8706896551724137,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 14.666666666666666
+      },
+      "position" : {
+        "x" : 58.75037092231409,
+        "y" : 16.767055043251528
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "999",
+        "ClosenessCentrality" : 0.30287206266318534,
+        "Eccentricity" : 7,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9360632183908046,
+        "Stress" : 970,
+        "TopologicalCoefficient" : 0.5147058823529411,
+        "shared_name" : "hsa-miR-548u",
+        "BetweennessCentrality" : 0.008545727136431784,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "hsa-miR-548u",
+        "SelfLoops" : 0,
+        "SUID" : 999,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3017241379310347,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 18.5
+      },
+      "position" : {
+        "x" : -262.09307822433703,
+        "y" : 142.27465646157313
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "995",
+        "ClosenessCentrality" : 0.2338709677419355,
+        "Eccentricity" : 8,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9090038314176245,
+        "Stress" : 2,
+        "TopologicalCoefficient" : 1.0,
+        "shared_name" : "GOLGA8M",
+        "BetweennessCentrality" : 7.496251874062968E-5,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "GOLGA8M",
+        "SelfLoops" : 0,
+        "SUID" : 995,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.275862068965517,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.0
+      },
+      "position" : {
+        "x" : -338.64977985968954,
+        "y" : 180.3710785494664
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "993",
+        "ClosenessCentrality" : 0.30287206266318534,
+        "Eccentricity" : 7,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9360632183908046,
+        "Stress" : 970,
+        "TopologicalCoefficient" : 0.5147058823529411,
+        "shared_name" : "hsa-miR-7161-5p",
+        "BetweennessCentrality" : 0.008545727136431784,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "hsa-miR-7161-5p",
+        "SelfLoops" : 0,
+        "SUID" : 993,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3017241379310347,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 18.5
+      },
+      "position" : {
+        "x" : -221.52940853168687,
+        "y" : 178.1482407809658
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "989",
+        "ClosenessCentrality" : 0.236734693877551,
+        "Eccentricity" : 8,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9104406130268199,
+        "Stress" : 12,
+        "TopologicalCoefficient" : 0.625,
+        "shared_name" : "SPATA13",
+        "BetweennessCentrality" : 3.748125937031484E-4,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "SPATA13",
+        "SelfLoops" : 0,
+        "SUID" : 989,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.224137931034483,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 3.5
+      },
+      "position" : {
+        "x" : 42.87280291326486,
+        "y" : 320.26634523263243
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "987",
+        "ClosenessCentrality" : 0.30446194225721784,
+        "Eccentricity" : 7,
+        "Degree" : 3,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9365421455938697,
+        "Stress" : 1938,
+        "TopologicalCoefficient" : 0.3431372549019608,
+        "shared_name" : "hsa-miR-548c-3p",
+        "BetweennessCentrality" : 0.025174045999344176,
+        "NumberOfUndirectedEdges" : 3,
+        "name" : "hsa-miR-548c-3p",
+        "SelfLoops" : 0,
+        "SUID" : 987,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.2844827586206895,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 12.666666666666666
+      },
+      "position" : {
+        "x" : -29.963954913965537,
+        "y" : 274.06126710093884
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "983",
+        "ClosenessCentrality" : 0.23481781376518218,
+        "Eccentricity" : 8,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9094827586206896,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "MIR17HG",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "MIR17HG",
+        "SelfLoops" : 0,
+        "SUID" : 983,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 4.258620689655173,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 4.0
+      },
+      "position" : {
+        "x" : -477.07259737890206,
+        "y" : 213.80979129903238
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "981",
+        "ClosenessCentrality" : 0.30606860158311344,
+        "Eccentricity" : 7,
+        "Degree" : 4,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9370210727969349,
+        "Stress" : 2916,
+        "TopologicalCoefficient" : 0.25,
+        "shared_name" : "hsa-miR-375",
+        "BetweennessCentrality" : 0.0512743628185907,
+        "NumberOfUndirectedEdges" : 4,
+        "name" : "hsa-miR-375",
+        "SelfLoops" : 0,
+        "SUID" : 981,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.2672413793103448,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 9.5
+      },
+      "position" : {
+        "x" : -410.03850782125016,
+        "y" : 168.75149865533248
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "977",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "MIR7-3HG",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "MIR7-3HG",
+        "SelfLoops" : 0,
+        "SUID" : 977,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -87.36039428690121,
+        "y" : -497.5278191206578
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "973",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "LINC00334",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "LINC00334",
+        "SelfLoops" : 0,
+        "SUID" : 973,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -320.16484359390716,
+        "y" : -373.86544091477356
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "969",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "LINC00174",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "LINC00174",
+        "SelfLoops" : 0,
+        "SUID" : 969,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -332.85134246146,
+        "y" : -514.6628403002967
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "965",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "LINC01545",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "LINC01545",
+        "SelfLoops" : 0,
+        "SUID" : 965,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -122.85469344742279,
+        "y" : -225.6172109343048
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "961",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "SLC6A10P",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "SLC6A10P",
+        "SelfLoops" : 0,
+        "SUID" : 961,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -364.33415511734466,
+        "y" : -267.5457540251251
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "957",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "PLEKHA8P1",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "PLEKHA8P1",
+        "SelfLoops" : 0,
+        "SUID" : 957,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -311.1905393946884,
+        "y" : -301.0635762907501
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "953",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "ADORA2A-AS1",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "ADORA2A-AS1",
+        "SelfLoops" : 0,
+        "SUID" : 953,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -78.92637923843841,
+        "y" : -280.0918966032501
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "949",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "LINC00319",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "LINC00319",
+        "SelfLoops" : 0,
+        "SUID" : 949,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -237.06914046890716,
+        "y" : -234.59431512131653
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "945",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "ANKRD20A11P",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "ANKRD20A11P",
+        "SelfLoops" : 0,
+        "SUID" : 945,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -146.73372167777492,
+        "y" : -419.97638828973
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "941",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "LINC00862",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "LINC00862",
+        "SelfLoops" : 0,
+        "SUID" : 941,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -142.4858520505731,
+        "y" : -520.3969408827174
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "937",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "SRRM2-AS1",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "SRRM2-AS1",
+        "SelfLoops" : 0,
+        "SUID" : 937,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -262.5720091212509,
+        "y" : -537.1988607145782
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "933",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "PRORY",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "PRORY",
+        "SelfLoops" : 0,
+        "SUID" : 933,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -200.04808334000091,
+        "y" : -554.8207784391876
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "929",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "ZNF252P",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "ZNF252P",
+        "SelfLoops" : 0,
+        "SUID" : 929,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -43.37241450010704,
+        "y" : -389.00593012263096
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "925",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "C3orf36",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "C3orf36",
+        "SelfLoops" : 0,
+        "SUID" : 925,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -177.01433089859466,
+        "y" : -252.69600732102356
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "921",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "LINC01600",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "LINC01600",
+        "SelfLoops" : 0,
+        "SUID" : 921,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -267.93779281265716,
+        "y" : -182.49968774094543
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "917",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "BTN2A3P",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "BTN2A3P",
+        "SelfLoops" : 0,
+        "SUID" : 917,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -223.2031525859242,
+        "y" : -453.2451236210961
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "913",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "LINC00305",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "LINC00305",
+        "SelfLoops" : 0,
+        "SUID" : 913,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -154.1768749686149,
+        "y" : -469.9570701837179
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "909",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "FMO6P",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "FMO6P",
+        "SelfLoops" : 0,
+        "SUID" : 909,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -219.85856917984466,
+        "y" : -506.60048940434797
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "905",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "BVES-AS1",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "BVES-AS1",
+        "SelfLoops" : 0,
+        "SUID" : 905,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -386.92693474309965,
+        "y" : -480.0000463826444
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "901",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "C15orf32",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "C15orf32",
+        "SelfLoops" : 0,
+        "SUID" : 901,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -419.63554671890716,
+        "y" : -366.8049092985626
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "897",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "NAPSB",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "NAPSB",
+        "SelfLoops" : 0,
+        "SUID" : 897,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -132.16618636734466,
+        "y" : -306.90181786789856
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "893",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "LINC00470",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "LINC00470",
+        "SelfLoops" : 0,
+        "SUID" : 893,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -295.07460683985477,
+        "y" : -250.71962618457272
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "889",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "HDHD5-AS1",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "HDHD5-AS1",
+        "SelfLoops" : 0,
+        "SUID" : 889,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -110.51848128921966,
+        "y" : -358.00554711594543
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "885",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "C14orf178",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "C14orf178",
+        "SelfLoops" : 0,
+        "SUID" : 885,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -187.68236068375091,
+        "y" : -189.49450356736145
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "881",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "HSD17B7P2",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "HSD17B7P2",
+        "SelfLoops" : 0,
+        "SUID" : 881,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -278.82408605848303,
+        "y" : -477.58179528489075
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "877",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "LINC00487",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "LINC00487",
+        "SelfLoops" : 0,
+        "SUID" : 877,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -360.3760081135115,
+        "y" : -405.35972061079474
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "873",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "GRIK1-AS1",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "GRIK1-AS1",
+        "SelfLoops" : 0,
+        "SUID" : 873,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -350.99602035171966,
+        "y" : -209.29172570481262
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "869",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "SIGLEC5",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "SIGLEC5",
+        "SelfLoops" : 0,
+        "SUID" : 869,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -413.5746946681259,
+        "y" : -298.807686398172
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "865",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "LINC00324",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "LINC00324",
+        "SelfLoops" : 0,
+        "SUID" : 865,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -68.53191584206881,
+        "y" : -452.77313713511273
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "861",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "LPAL2",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "LPAL2",
+        "SelfLoops" : 0,
+        "SUID" : 861,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -409.02714828140716,
+        "y" : -435.04203088059387
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "857",
+        "ClosenessCentrality" : 0.3558282208588957,
+        "Eccentricity" : 4,
+        "Degree" : 2,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9497126436781609,
+        "Stress" : 4968,
+        "TopologicalCoefficient" : 0.5,
+        "shared_name" : "CDR1",
+        "BetweennessCentrality" : 0.1409924724300536,
+        "NumberOfUndirectedEdges" : 2,
+        "name" : "CDR1",
+        "SelfLoops" : 0,
+        "SUID" : 857,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.810344827586207,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 20.0
+      },
+      "position" : {
+        "x" : -41.812714335171336,
+        "y" : -242.25214237841115
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "853",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "LINC00313",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "LINC00313",
+        "SelfLoops" : 0,
+        "SUID" : 853,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -48.484423672032165,
+        "y" : -335.958321163797
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "849",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "KAAG1",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "KAAG1",
+        "SelfLoops" : 0,
+        "SUID" : 849,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -36.70262766027409,
+        "y" : -422.3906151241748
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "845",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "FAM99A",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "FAM99A",
+        "SelfLoops" : 0,
+        "SUID" : 845,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -289.3320188868759,
+        "y" : -422.25086266770325
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "841",
+        "ClosenessCentrality" : 0.29896907216494845,
+        "Eccentricity" : 6,
+        "Degree" : 1,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.9348659003831418,
+        "Stress" : 0,
+        "TopologicalCoefficient" : 0.0,
+        "shared_name" : "FAM167A-AS1",
+        "BetweennessCentrality" : 0.0,
+        "NumberOfUndirectedEdges" : 1,
+        "name" : "FAM167A-AS1",
+        "SelfLoops" : 0,
+        "SUID" : 841,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 3.3448275862068964,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 36.0
+      },
+      "position" : {
+        "x" : -366.1016722071884,
+        "y" : -341.78948266282043
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "839",
+        "ClosenessCentrality" : 0.4249084249084249,
+        "Eccentricity" : 5,
+        "Degree" : 36,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Radiality" : 0.962404214559387,
+        "Stress" : 11358,
+        "TopologicalCoefficient" : 0.027777777777777776,
+        "shared_name" : "hsa-miR-335-5p",
+        "BetweennessCentrality" : 0.5186386493415978,
+        "NumberOfUndirectedEdges" : 36,
+        "name" : "hsa-miR-335-5p",
+        "SelfLoops" : 0,
+        "SUID" : 839,
+        "IsSingleNode" : false,
+        "NumberOfDirectedEdges" : 0,
+        "AverageShortestPathLength" : 2.353448275862069,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 1.9722222222222223
+      },
+      "position" : {
+        "x" : -207.91295275180087,
+        "y" : -340.04129845871887
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "1349",
+        "source" : "1347",
+        "target" : "1181",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-29a-3p (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-29a-3p (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1349,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1345",
+        "source" : "1343",
+        "target" : "1181",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-142-5p (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-142-5p (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1345,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1341",
+        "source" : "1339",
+        "target" : "1181",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-1243 (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-1243 (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1341,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1337",
+        "source" : "1335",
+        "target" : "1181",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-1285-5p (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-1285-5p (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1337,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1333",
+        "source" : "1331",
+        "target" : "1181",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-5003-5p (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-5003-5p (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1333,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1325",
+        "source" : "1323",
+        "target" : "1181",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-653-3p (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-653-3p (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1325,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1319",
+        "source" : "1317",
+        "target" : "1181",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-141-5p (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-141-5p (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1319,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1315",
+        "source" : "1313",
+        "target" : "1181",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-3688-3p (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-3688-3p (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1315,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1309",
+        "source" : "1307",
+        "target" : "1181",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-4461 (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-4461 (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1309,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1301",
+        "source" : "1299",
+        "target" : "1181",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-3148 (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-3148 (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1301,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1293",
+        "source" : "1291",
+        "target" : "1181",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-337-3p (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-337-3p (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1293,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1287",
+        "source" : "1285",
+        "target" : "1181",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-1224-5p (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-1224-5p (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1287,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1283",
+        "source" : "1281",
+        "target" : "1181",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-4689 (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-4689 (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1283,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1279",
+        "source" : "1277",
+        "target" : "1181",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-6858-5p (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-6858-5p (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1279,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1261",
+        "source" : "1259",
+        "target" : "1181",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-338-5p (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-338-5p (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1261,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1251",
+        "source" : "1249",
+        "target" : "1187",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-6758-5p (interacts with) CCL11",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-6758-5p (interacts with) CCL11",
+        "interaction" : "interacts with",
+        "SUID" : 1251,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1247",
+        "source" : "1245",
+        "target" : "1187",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-6856-5p (interacts with) CCL11",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-6856-5p (interacts with) CCL11",
+        "interaction" : "interacts with",
+        "SUID" : 1247,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1233",
+        "source" : "1231",
+        "target" : "1187",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-4270 (interacts with) CCL11",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-4270 (interacts with) CCL11",
+        "interaction" : "interacts with",
+        "SUID" : 1233,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1229",
+        "source" : "1227",
+        "target" : "1187",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-4441 (interacts with) CCL11",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-4441 (interacts with) CCL11",
+        "interaction" : "interacts with",
+        "SUID" : 1229,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1225",
+        "source" : "1223",
+        "target" : "1187",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-6754-5p (interacts with) CCL11",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-6754-5p (interacts with) CCL11",
+        "interaction" : "interacts with",
+        "SUID" : 1225,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1221",
+        "source" : "1219",
+        "target" : "1187",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-4685-5p (interacts with) CCL11",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-4685-5p (interacts with) CCL11",
+        "interaction" : "interacts with",
+        "SUID" : 1221,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1217",
+        "source" : "1215",
+        "target" : "1187",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-7113-5p (interacts with) CCL11",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-7113-5p (interacts with) CCL11",
+        "interaction" : "interacts with",
+        "SUID" : 1217,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1213",
+        "source" : "1211",
+        "target" : "1187",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-6837-5p (interacts with) CCL11",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-6837-5p (interacts with) CCL11",
+        "interaction" : "interacts with",
+        "SUID" : 1213,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1203",
+        "source" : "1201",
+        "target" : "1187",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-766-5p (interacts with) CCL11",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-766-5p (interacts with) CCL11",
+        "interaction" : "interacts with",
+        "SUID" : 1203,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1195",
+        "source" : "1193",
+        "target" : "1181",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-29b-3p (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-29b-3p (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1195,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1183",
+        "source" : "1179",
+        "target" : "1181",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-155-5p (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-155-5p (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1183,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1303",
+        "source" : "1161",
+        "target" : "1181",
+        "EdgeBetweenness" : 787.1279082761691,
+        "shared_name" : "hsa-miR-3928-3p (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-3928-3p (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1303,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1163",
+        "source" : "1161",
+        "target" : "1153",
+        "EdgeBetweenness" : 671.8097264579868,
+        "shared_name" : "hsa-miR-3928-3p (interacts with) ELFN2",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-3928-3p (interacts with) ELFN2",
+        "interaction" : "interacts with",
+        "SUID" : 1163,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1289",
+        "source" : "1157",
+        "target" : "1181",
+        "EdgeBetweenness" : 787.1279082761691,
+        "shared_name" : "hsa-miR-3915 (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-3915 (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1289,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1159",
+        "source" : "1157",
+        "target" : "1153",
+        "EdgeBetweenness" : 671.8097264579868,
+        "shared_name" : "hsa-miR-3915 (interacts with) ELFN2",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-3915 (interacts with) ELFN2",
+        "interaction" : "interacts with",
+        "SUID" : 1159,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1257",
+        "source" : "1147",
+        "target" : "1181",
+        "EdgeBetweenness" : 266.8175073987341,
+        "shared_name" : "hsa-miR-10b-3p (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-10b-3p (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1257,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1151",
+        "source" : "1147",
+        "target" : "1149",
+        "EdgeBetweenness" : 75.8915835103569,
+        "shared_name" : "hsa-miR-10b-3p (interacts with) LINC01556",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-10b-3p (interacts with) LINC01556",
+        "interaction" : "interacts with",
+        "SUID" : 1151,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1265",
+        "source" : "1137",
+        "target" : "1181",
+        "EdgeBetweenness" : 460.0,
+        "shared_name" : "hsa-miR-376c-3p (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-376c-3p (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1265,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1141",
+        "source" : "1137",
+        "target" : "1139",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-376c-3p (interacts with) CYTOR",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-376c-3p (interacts with) CYTOR",
+        "interaction" : "interacts with",
+        "SUID" : 1141,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1189",
+        "source" : "1127",
+        "target" : "1187",
+        "EdgeBetweenness" : 460.0,
+        "shared_name" : "hsa-miR-148b-3p (interacts with) CCL11",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-148b-3p (interacts with) CCL11",
+        "interaction" : "interacts with",
+        "SUID" : 1189,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1131",
+        "source" : "1127",
+        "target" : "1129",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-148b-3p (interacts with) HOTAIR",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-148b-3p (interacts with) HOTAIR",
+        "interaction" : "interacts with",
+        "SUID" : 1131,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1263",
+        "source" : "1121",
+        "target" : "1181",
+        "EdgeBetweenness" : 460.0,
+        "shared_name" : "hsa-miR-3117-5p (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-3117-5p (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1263,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1125",
+        "source" : "1121",
+        "target" : "1123",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-3117-5p (interacts with) CT62",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-3117-5p (interacts with) CT62",
+        "interaction" : "interacts with",
+        "SUID" : 1125,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1297",
+        "source" : "1115",
+        "target" : "1181",
+        "EdgeBetweenness" : 460.0,
+        "shared_name" : "hsa-miR-6124 (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-6124 (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1297,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1119",
+        "source" : "1115",
+        "target" : "1117",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-6124 (interacts with) TMEM105",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-6124 (interacts with) TMEM105",
+        "interaction" : "interacts with",
+        "SUID" : 1119,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1329",
+        "source" : "1105",
+        "target" : "1181",
+        "EdgeBetweenness" : 513.2587741361059,
+        "shared_name" : "hsa-miR-1304-3p (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-1304-3p (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1329,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1111",
+        "source" : "1105",
+        "target" : "1093",
+        "EdgeBetweenness" : 275.9254408027729,
+        "shared_name" : "hsa-miR-1304-3p (interacts with) LINC00598",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-1304-3p (interacts with) LINC00598",
+        "interaction" : "interacts with",
+        "SUID" : 1111,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1109",
+        "source" : "1105",
+        "target" : "1107",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-1304-3p (interacts with) LINC00632",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-1304-3p (interacts with) LINC00632",
+        "interaction" : "interacts with",
+        "SUID" : 1109,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1311",
+        "source" : "1101",
+        "target" : "1181",
+        "EdgeBetweenness" : 339.9254408027727,
+        "shared_name" : "hsa-miR-1470 (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-1470 (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1311,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1103",
+        "source" : "1101",
+        "target" : "1093",
+        "EdgeBetweenness" : 221.25877413610633,
+        "shared_name" : "hsa-miR-1470 (interacts with) LINC00598",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-1470 (interacts with) LINC00598",
+        "interaction" : "interacts with",
+        "SUID" : 1103,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1305",
+        "source" : "1097",
+        "target" : "1181",
+        "EdgeBetweenness" : 339.9254408027727,
+        "shared_name" : "hsa-miR-4667-3p (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-4667-3p (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1305,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1099",
+        "source" : "1097",
+        "target" : "1093",
+        "EdgeBetweenness" : 221.2587741361063,
+        "shared_name" : "hsa-miR-4667-3p (interacts with) LINC00598",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-4667-3p (interacts with) LINC00598",
+        "interaction" : "interacts with",
+        "SUID" : 1099,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1295",
+        "source" : "1091",
+        "target" : "1181",
+        "EdgeBetweenness" : 339.9254408027727,
+        "shared_name" : "hsa-miR-642a-5p (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-642a-5p (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1295,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1095",
+        "source" : "1091",
+        "target" : "1093",
+        "EdgeBetweenness" : 221.2587741361063,
+        "shared_name" : "hsa-miR-642a-5p (interacts with) LINC00598",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-642a-5p (interacts with) LINC00598",
+        "interaction" : "interacts with",
+        "SUID" : 1095,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1197",
+        "source" : "1087",
+        "target" : "1187",
+        "EdgeBetweenness" : 2383.4017340635396,
+        "shared_name" : "hsa-miR-7106-5p (interacts with) CCL11",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-7106-5p (interacts with) CCL11",
+        "interaction" : "interacts with",
+        "SUID" : 1197,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1177",
+        "source" : "1087",
+        "target" : "857",
+        "EdgeBetweenness" : 1950.7062488835818,
+        "shared_name" : "hsa-miR-7106-5p (interacts with) CDR1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-7106-5p (interacts with) CDR1",
+        "interaction" : "interacts with",
+        "SUID" : 1177,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1113",
+        "source" : "1087",
+        "target" : "1093",
+        "EdgeBetweenness" : 845.014894524226,
+        "shared_name" : "hsa-miR-7106-5p (interacts with) LINC00598",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-7106-5p (interacts with) LINC00598",
+        "interaction" : "interacts with",
+        "SUID" : 1113,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1089",
+        "source" : "1087",
+        "target" : "1071",
+        "EdgeBetweenness" : 324.9678941927513,
+        "shared_name" : "hsa-miR-7106-5p (interacts with) DNAH10OS",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-7106-5p (interacts with) DNAH10OS",
+        "interaction" : "interacts with",
+        "SUID" : 1089,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1327",
+        "source" : "1081",
+        "target" : "1181",
+        "EdgeBetweenness" : 460.0,
+        "shared_name" : "hsa-miR-4286 (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-4286 (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1327,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1085",
+        "source" : "1081",
+        "target" : "1083",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-4286 (interacts with) ZNF781",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-4286 (interacts with) ZNF781",
+        "interaction" : "interacts with",
+        "SUID" : 1085,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1205",
+        "source" : "1065",
+        "target" : "1187",
+        "EdgeBetweenness" : 460.0,
+        "shared_name" : "hsa-miR-6077 (interacts with) CCL11",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-6077 (interacts with) CCL11",
+        "interaction" : "interacts with",
+        "SUID" : 1205,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1069",
+        "source" : "1065",
+        "target" : "1067",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-6077 (interacts with) CASP16P",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-6077 (interacts with) CASP16P",
+        "interaction" : "interacts with",
+        "SUID" : 1069,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1273",
+        "source" : "1057",
+        "target" : "1187",
+        "EdgeBetweenness" : 381.0953272778209,
+        "shared_name" : "hsa-miR-5011-5p (interacts with) CCL11",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-5011-5p (interacts with) CCL11",
+        "interaction" : "interacts with",
+        "SUID" : 1273,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1079",
+        "source" : "1057",
+        "target" : "1075",
+        "EdgeBetweenness" : 96.66540704838562,
+        "shared_name" : "hsa-miR-5011-5p (interacts with) LINC00955",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-5011-5p (interacts with) LINC00955",
+        "interaction" : "interacts with",
+        "SUID" : 1079,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1059",
+        "source" : "1057",
+        "target" : "1049",
+        "EdgeBetweenness" : 70.09658689610268,
+        "shared_name" : "hsa-miR-5011-5p (interacts with) FAM182B",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-5011-5p (interacts with) FAM182B",
+        "interaction" : "interacts with",
+        "SUID" : 1059,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1271",
+        "source" : "1053",
+        "target" : "1187",
+        "EdgeBetweenness" : 347.1735249666573,
+        "shared_name" : "hsa-miR-190a-3p (interacts with) CCL11",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-190a-3p (interacts with) CCL11",
+        "interaction" : "interacts with",
+        "SUID" : 1271,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1077",
+        "source" : "1053",
+        "target" : "1075",
+        "EdgeBetweenness" : 137.66792628494773,
+        "shared_name" : "hsa-miR-190a-3p (interacts with) LINC00955",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-190a-3p (interacts with) LINC00955",
+        "interaction" : "interacts with",
+        "SUID" : 1077,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1073",
+        "source" : "1053",
+        "target" : "1071",
+        "EdgeBetweenness" : 164.9497123745697,
+        "shared_name" : "hsa-miR-190a-3p (interacts with) DNAH10OS",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-190a-3p (interacts with) DNAH10OS",
+        "interaction" : "interacts with",
+        "SUID" : 1073,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1055",
+        "source" : "1053",
+        "target" : "1049",
+        "EdgeBetweenness" : 101.47349287446124,
+        "shared_name" : "hsa-miR-190a-3p (interacts with) FAM182B",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-190a-3p (interacts with) FAM182B",
+        "interaction" : "interacts with",
+        "SUID" : 1055,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1275",
+        "source" : "1047",
+        "target" : "1187",
+        "EdgeBetweenness" : 290.7632535627688,
+        "shared_name" : "hsa-miR-1277-5p (interacts with) CCL11",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-1277-5p (interacts with) CCL11",
+        "interaction" : "interacts with",
+        "SUID" : 1275,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1051",
+        "source" : "1047",
+        "target" : "1049",
+        "EdgeBetweenness" : 70.09658689610268,
+        "shared_name" : "hsa-miR-1277-5p (interacts with) FAM182B",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-1277-5p (interacts with) FAM182B",
+        "interaction" : "interacts with",
+        "SUID" : 1051,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1237",
+        "source" : "1043",
+        "target" : "1187",
+        "EdgeBetweenness" : 226.44299184635523,
+        "shared_name" : "hsa-miR-4716-3p (interacts with) CCL11",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-4716-3p (interacts with) CCL11",
+        "interaction" : "interacts with",
+        "SUID" : 1237,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1045",
+        "source" : "1043",
+        "target" : "1005",
+        "EdgeBetweenness" : 252.44299184635514,
+        "shared_name" : "hsa-miR-4716-3p (interacts with) BDNF-AS",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-4716-3p (interacts with) BDNF-AS",
+        "interaction" : "interacts with",
+        "SUID" : 1045,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1235",
+        "source" : "1039",
+        "target" : "1187",
+        "EdgeBetweenness" : 226.44299184635526,
+        "shared_name" : "hsa-miR-6794-5p (interacts with) CCL11",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-6794-5p (interacts with) CCL11",
+        "interaction" : "interacts with",
+        "SUID" : 1235,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1041",
+        "source" : "1039",
+        "target" : "1005",
+        "EdgeBetweenness" : 252.44299184635517,
+        "shared_name" : "hsa-miR-6794-5p (interacts with) BDNF-AS",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-6794-5p (interacts with) BDNF-AS",
+        "interaction" : "interacts with",
+        "SUID" : 1041,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1209",
+        "source" : "1035",
+        "target" : "1187",
+        "EdgeBetweenness" : 226.44299184635526,
+        "shared_name" : "hsa-miR-3150b-3p (interacts with) CCL11",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-3150b-3p (interacts with) CCL11",
+        "interaction" : "interacts with",
+        "SUID" : 1209,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1037",
+        "source" : "1035",
+        "target" : "1005",
+        "EdgeBetweenness" : 252.44299184635517,
+        "shared_name" : "hsa-miR-3150b-3p (interacts with) BDNF-AS",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-3150b-3p (interacts with) BDNF-AS",
+        "interaction" : "interacts with",
+        "SUID" : 1037,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1207",
+        "source" : "1031",
+        "target" : "1187",
+        "EdgeBetweenness" : 226.44299184635526,
+        "shared_name" : "hsa-miR-4784 (interacts with) CCL11",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-4784 (interacts with) CCL11",
+        "interaction" : "interacts with",
+        "SUID" : 1207,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1033",
+        "source" : "1031",
+        "target" : "1005",
+        "EdgeBetweenness" : 252.44299184635517,
+        "shared_name" : "hsa-miR-4784 (interacts with) BDNF-AS",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-4784 (interacts with) BDNF-AS",
+        "interaction" : "interacts with",
+        "SUID" : 1033,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1199",
+        "source" : "1027",
+        "target" : "1187",
+        "EdgeBetweenness" : 226.44299184635526,
+        "shared_name" : "hsa-miR-625-5p (interacts with) CCL11",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-625-5p (interacts with) CCL11",
+        "interaction" : "interacts with",
+        "SUID" : 1199,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1029",
+        "source" : "1027",
+        "target" : "1005",
+        "EdgeBetweenness" : 252.44299184635517,
+        "shared_name" : "hsa-miR-625-5p (interacts with) BDNF-AS",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-625-5p (interacts with) BDNF-AS",
+        "interaction" : "interacts with",
+        "SUID" : 1029,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1243",
+        "source" : "1023",
+        "target" : "1187",
+        "EdgeBetweenness" : 344.2248019354069,
+        "shared_name" : "hsa-miR-1321 (interacts with) CCL11",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-1321 (interacts with) CCL11",
+        "interaction" : "interacts with",
+        "SUID" : 1243,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1155",
+        "source" : "1023",
+        "target" : "1153",
+        "EdgeBetweenness" : 413.54659125719655,
+        "shared_name" : "hsa-miR-1321 (interacts with) ELFN2",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-1321 (interacts with) ELFN2",
+        "interaction" : "interacts with",
+        "SUID" : 1155,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1025",
+        "source" : "1023",
+        "target" : "1015",
+        "EdgeBetweenness" : 78.66666666666661,
+        "shared_name" : "hsa-miR-1321 (interacts with) C10orf55",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-1321 (interacts with) C10orf55",
+        "interaction" : "interacts with",
+        "SUID" : 1025,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1239",
+        "source" : "1019",
+        "target" : "1187",
+        "EdgeBetweenness" : 344.22480193540696,
+        "shared_name" : "hsa-miR-4739 (interacts with) CCL11",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-4739 (interacts with) CCL11",
+        "interaction" : "interacts with",
+        "SUID" : 1239,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1167",
+        "source" : "1019",
+        "target" : "1153",
+        "EdgeBetweenness" : 413.54659125719655,
+        "shared_name" : "hsa-miR-4739 (interacts with) ELFN2",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-4739 (interacts with) ELFN2",
+        "interaction" : "interacts with",
+        "SUID" : 1167,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1021",
+        "source" : "1019",
+        "target" : "1015",
+        "EdgeBetweenness" : 78.66666666666661,
+        "shared_name" : "hsa-miR-4739 (interacts with) C10orf55",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-4739 (interacts with) C10orf55",
+        "interaction" : "interacts with",
+        "SUID" : 1021,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1241",
+        "source" : "1013",
+        "target" : "1187",
+        "EdgeBetweenness" : 344.22480193540696,
+        "shared_name" : "hsa-miR-4756-5p (interacts with) CCL11",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-4756-5p (interacts with) CCL11",
+        "interaction" : "interacts with",
+        "SUID" : 1241,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1169",
+        "source" : "1013",
+        "target" : "1153",
+        "EdgeBetweenness" : 413.54659125719655,
+        "shared_name" : "hsa-miR-4756-5p (interacts with) ELFN2",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-4756-5p (interacts with) ELFN2",
+        "interaction" : "interacts with",
+        "SUID" : 1169,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1017",
+        "source" : "1013",
+        "target" : "1015",
+        "EdgeBetweenness" : 78.66666666666661,
+        "shared_name" : "hsa-miR-4756-5p (interacts with) C10orf55",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-4756-5p (interacts with) C10orf55",
+        "interaction" : "interacts with",
+        "SUID" : 1017,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1253",
+        "source" : "1009",
+        "target" : "1181",
+        "EdgeBetweenness" : 575.4355763075071,
+        "shared_name" : "hsa-miR-5100 (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-5100 (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1253,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1175",
+        "source" : "1009",
+        "target" : "1149",
+        "EdgeBetweenness" : 106.45174097033222,
+        "shared_name" : "hsa-miR-5100 (interacts with) LINC01556",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-5100 (interacts with) LINC01556",
+        "interaction" : "interacts with",
+        "SUID" : 1175,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1173",
+        "source" : "1009",
+        "target" : "1171",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-5100 (interacts with) COLCA1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-5100 (interacts with) COLCA1",
+        "interaction" : "interacts with",
+        "SUID" : 1173,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1011",
+        "source" : "1009",
+        "target" : "989",
+        "EdgeBetweenness" : 127.1782263687486,
+        "shared_name" : "hsa-miR-5100 (interacts with) SPATA13",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-5100 (interacts with) SPATA13",
+        "interaction" : "interacts with",
+        "SUID" : 1011,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1255",
+        "source" : "1003",
+        "target" : "1181",
+        "EdgeBetweenness" : 1402.1520353961953,
+        "shared_name" : "hsa-miR-3942-3p (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-3942-3p (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1255,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1165",
+        "source" : "1003",
+        "target" : "1149",
+        "EdgeBetweenness" : 169.59180932917457,
+        "shared_name" : "hsa-miR-3942-3p (interacts with) LINC01556",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-3942-3p (interacts with) LINC01556",
+        "interaction" : "interacts with",
+        "SUID" : 1165,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1007",
+        "source" : "1003",
+        "target" : "1005",
+        "EdgeBetweenness" : 1345.1299919115154,
+        "shared_name" : "hsa-miR-3942-3p (interacts with) BDNF-AS",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-3942-3p (interacts with) BDNF-AS",
+        "interaction" : "interacts with",
+        "SUID" : 1007,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1269",
+        "source" : "999",
+        "target" : "1181",
+        "EdgeBetweenness" : 343.0,
+        "shared_name" : "hsa-miR-548u (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-548u (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1269,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1001",
+        "source" : "999",
+        "target" : "995",
+        "EdgeBetweenness" : 117.0,
+        "shared_name" : "hsa-miR-548u (interacts with) GOLGA8M",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-548u (interacts with) GOLGA8M",
+        "interaction" : "interacts with",
+        "SUID" : 1001,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1267",
+        "source" : "993",
+        "target" : "1181",
+        "EdgeBetweenness" : 343.0,
+        "shared_name" : "hsa-miR-7161-5p (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-7161-5p (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1267,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "997",
+        "source" : "993",
+        "target" : "995",
+        "EdgeBetweenness" : 117.0,
+        "shared_name" : "hsa-miR-7161-5p (interacts with) GOLGA8M",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-7161-5p (interacts with) GOLGA8M",
+        "interaction" : "interacts with",
+        "SUID" : 997,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1321",
+        "source" : "987",
+        "target" : "1181",
+        "EdgeBetweenness" : 556.8217736312515,
+        "shared_name" : "hsa-miR-548c-3p (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-548c-3p (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1321,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1063",
+        "source" : "987",
+        "target" : "1061",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-548c-3p (interacts with) TRIM16L",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-548c-3p (interacts with) TRIM16L",
+        "interaction" : "interacts with",
+        "SUID" : 1063,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "991",
+        "source" : "987",
+        "target" : "989",
+        "EdgeBetweenness" : 114.8217736312514,
+        "shared_name" : "hsa-miR-548c-3p (interacts with) SPATA13",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-548c-3p (interacts with) SPATA13",
+        "interaction" : "interacts with",
+        "SUID" : 991,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1191",
+        "source" : "981",
+        "target" : "1181",
+        "EdgeBetweenness" : 904.0,
+        "shared_name" : "hsa-miR-375 (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-375 (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1191,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1145",
+        "source" : "981",
+        "target" : "1143",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-375 (interacts with) MALAT1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-375 (interacts with) MALAT1",
+        "interaction" : "interacts with",
+        "SUID" : 1145,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1135",
+        "source" : "981",
+        "target" : "1133",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-375 (interacts with) SOX2-OT",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-375 (interacts with) SOX2-OT",
+        "interaction" : "interacts with",
+        "SUID" : 1135,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "985",
+        "source" : "981",
+        "target" : "983",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-375 (interacts with) MIR17HG",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-375 (interacts with) MIR17HG",
+        "interaction" : "interacts with",
+        "SUID" : 985,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1185",
+        "source" : "839",
+        "target" : "1181",
+        "EdgeBetweenness" : 4138.306248883579,
+        "shared_name" : "hsa-miR-335-5p (interacts with) CLDN1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) CLDN1",
+        "interaction" : "interacts with",
+        "SUID" : 1185,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "979",
+        "source" : "839",
+        "target" : "977",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) MIR7-3HG",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) MIR7-3HG",
+        "interaction" : "interacts with",
+        "SUID" : 979,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "975",
+        "source" : "839",
+        "target" : "973",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) LINC00334",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) LINC00334",
+        "interaction" : "interacts with",
+        "SUID" : 975,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "971",
+        "source" : "839",
+        "target" : "969",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) LINC00174",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) LINC00174",
+        "interaction" : "interacts with",
+        "SUID" : 971,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "967",
+        "source" : "839",
+        "target" : "965",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) LINC01545",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) LINC01545",
+        "interaction" : "interacts with",
+        "SUID" : 967,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "963",
+        "source" : "839",
+        "target" : "961",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) SLC6A10P",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) SLC6A10P",
+        "interaction" : "interacts with",
+        "SUID" : 963,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "959",
+        "source" : "839",
+        "target" : "957",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) PLEKHA8P1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) PLEKHA8P1",
+        "interaction" : "interacts with",
+        "SUID" : 959,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "955",
+        "source" : "839",
+        "target" : "953",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) ADORA2A-AS1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) ADORA2A-AS1",
+        "interaction" : "interacts with",
+        "SUID" : 955,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "951",
+        "source" : "839",
+        "target" : "949",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) LINC00319",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) LINC00319",
+        "interaction" : "interacts with",
+        "SUID" : 951,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "947",
+        "source" : "839",
+        "target" : "945",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) ANKRD20A11P",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) ANKRD20A11P",
+        "interaction" : "interacts with",
+        "SUID" : 947,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "943",
+        "source" : "839",
+        "target" : "941",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) LINC00862",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) LINC00862",
+        "interaction" : "interacts with",
+        "SUID" : 943,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "939",
+        "source" : "839",
+        "target" : "937",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) SRRM2-AS1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) SRRM2-AS1",
+        "interaction" : "interacts with",
+        "SUID" : 939,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "935",
+        "source" : "839",
+        "target" : "933",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) PRORY",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) PRORY",
+        "interaction" : "interacts with",
+        "SUID" : 935,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "931",
+        "source" : "839",
+        "target" : "929",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) ZNF252P",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) ZNF252P",
+        "interaction" : "interacts with",
+        "SUID" : 931,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "927",
+        "source" : "839",
+        "target" : "925",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) C3orf36",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) C3orf36",
+        "interaction" : "interacts with",
+        "SUID" : 927,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "923",
+        "source" : "839",
+        "target" : "921",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) LINC01600",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) LINC01600",
+        "interaction" : "interacts with",
+        "SUID" : 923,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "919",
+        "source" : "839",
+        "target" : "917",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) BTN2A3P",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) BTN2A3P",
+        "interaction" : "interacts with",
+        "SUID" : 919,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "915",
+        "source" : "839",
+        "target" : "913",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) LINC00305",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) LINC00305",
+        "interaction" : "interacts with",
+        "SUID" : 915,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "911",
+        "source" : "839",
+        "target" : "909",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) FMO6P",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) FMO6P",
+        "interaction" : "interacts with",
+        "SUID" : 911,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "907",
+        "source" : "839",
+        "target" : "905",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) BVES-AS1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) BVES-AS1",
+        "interaction" : "interacts with",
+        "SUID" : 907,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "903",
+        "source" : "839",
+        "target" : "901",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) C15orf32",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) C15orf32",
+        "interaction" : "interacts with",
+        "SUID" : 903,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "899",
+        "source" : "839",
+        "target" : "897",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) NAPSB",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) NAPSB",
+        "interaction" : "interacts with",
+        "SUID" : 899,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "895",
+        "source" : "839",
+        "target" : "893",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) LINC00470",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) LINC00470",
+        "interaction" : "interacts with",
+        "SUID" : 895,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "891",
+        "source" : "839",
+        "target" : "889",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) HDHD5-AS1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) HDHD5-AS1",
+        "interaction" : "interacts with",
+        "SUID" : 891,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "887",
+        "source" : "839",
+        "target" : "885",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) C14orf178",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) C14orf178",
+        "interaction" : "interacts with",
+        "SUID" : 887,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "883",
+        "source" : "839",
+        "target" : "881",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) HSD17B7P2",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) HSD17B7P2",
+        "interaction" : "interacts with",
+        "SUID" : 883,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "879",
+        "source" : "839",
+        "target" : "877",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) LINC00487",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) LINC00487",
+        "interaction" : "interacts with",
+        "SUID" : 879,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "875",
+        "source" : "839",
+        "target" : "873",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) GRIK1-AS1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) GRIK1-AS1",
+        "interaction" : "interacts with",
+        "SUID" : 875,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "871",
+        "source" : "839",
+        "target" : "869",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) SIGLEC5",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) SIGLEC5",
+        "interaction" : "interacts with",
+        "SUID" : 871,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "867",
+        "source" : "839",
+        "target" : "865",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) LINC00324",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) LINC00324",
+        "interaction" : "interacts with",
+        "SUID" : 867,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "863",
+        "source" : "839",
+        "target" : "861",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) LPAL2",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) LPAL2",
+        "interaction" : "interacts with",
+        "SUID" : 863,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "859",
+        "source" : "839",
+        "target" : "857",
+        "EdgeBetweenness" : 2042.972915550249,
+        "shared_name" : "hsa-miR-335-5p (interacts with) CDR1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) CDR1",
+        "interaction" : "interacts with",
+        "SUID" : 859,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "855",
+        "source" : "839",
+        "target" : "853",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) LINC00313",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) LINC00313",
+        "interaction" : "interacts with",
+        "SUID" : 855,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "851",
+        "source" : "839",
+        "target" : "849",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) KAAG1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) KAAG1",
+        "interaction" : "interacts with",
+        "SUID" : 851,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "847",
+        "source" : "839",
+        "target" : "845",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) FAM99A",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) FAM99A",
+        "interaction" : "interacts with",
+        "SUID" : 847,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "843",
+        "source" : "839",
+        "target" : "841",
+        "EdgeBetweenness" : 232.0,
+        "shared_name" : "hsa-miR-335-5p (interacts with) FAM167A-AS1",
+        "shared_interaction" : "interacts with",
+        "name" : "hsa-miR-335-5p (interacts with) FAM167A-AS1",
+        "interaction" : "interacts with",
+        "SUID" : 843,
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}

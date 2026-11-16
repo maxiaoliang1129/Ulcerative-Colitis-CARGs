@@ -1,0 +1,13 @@
+MCODE App Results
+Date: 2026年11月6日 上午10:04:19
+
+Parameters:
+   Network Scoring:
+      Include Loops: false  Degree Cutoff: 2
+   Cluster Finding:
+      Node Score Cutoff: 0.2  Haircut: true  Fluff: false  K-Core: 2  Max. Depth from Seed: 100
+
+Cluster	Score (Density*#Nodes)	Nodes	Edges	Node IDs
+1	4	4	6	CXCL8, IL6, CCL2, IL1B
+2	3	3	3	CLDN18, CLDN1, CLDN2
+3	3	3	3	CDH22, CDH3, CDH9

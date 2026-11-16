@@ -1,0 +1,136 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.10.2",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "1: Cluster 4 (Score: 3)",
+    "name" : "1: Cluster 4 (Score: 3)",
+    "SUID" : 8730,
+    "__Annotations" : [ ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "1156",
+        "shared_name" : "CDH22",
+        "MCODE_Node_Status_1_" : "Clustered",
+        "name" : "CDH22",
+        "MCODE_Score_1_" : 4.0,
+        "SUID" : 1156,
+        "selected" : false,
+        "MCODE_Clusters_1_" : [ "Cluster 4" ]
+      },
+      "position" : {
+        "x" : 10.618664862518921,
+        "y" : -29.57385148110793
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1181",
+        "shared_name" : "DSCAML1",
+        "MCODE_Node_Status_1_" : "Clustered",
+        "name" : "DSCAML1",
+        "MCODE_Score_1_" : 3.7777777777777777,
+        "SUID" : 1181,
+        "selected" : false,
+        "MCODE_Clusters_1_" : [ "Cluster 4" ]
+      },
+      "position" : {
+        "x" : 81.02156263375993,
+        "y" : 39.38765017140031
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1186",
+        "shared_name" : "PCDH17",
+        "MCODE_Node_Status_1_" : "Seed",
+        "name" : "PCDH17",
+        "MCODE_Score_1_" : 4.0,
+        "SUID" : 1186,
+        "selected" : false,
+        "MCODE_Clusters_1_" : [ "Cluster 4" ]
+      },
+      "position" : {
+        "x" : -31.594572147108973,
+        "y" : 54.17610744757776
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "1188",
+        "source" : "1156",
+        "target" : "1186",
+        "node2_string_id" : "9606.ENSP00000367151",
+        "neighborhood_on_chromosome" : 0,
+        "homology" : 0.586,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.216,
+        "automated_textmining" : 0.104,
+        "node1_string_id" : "9606.ENSP00000437790",
+        "gene_fusion" : 0,
+        "shared_name" : "CDH22 (interacts with) PCDH17",
+        "database_annotated" : 0.0,
+        "name" : "CDH22 (interacts with) PCDH17",
+        "interaction" : "interacts with",
+        "SUID" : 1188,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.16,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1183",
+        "source" : "1156",
+        "target" : "1181",
+        "node2_string_id" : "9606.ENSP00000315465",
+        "neighborhood_on_chromosome" : 0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.21,
+        "automated_textmining" : 0.042,
+        "node1_string_id" : "9606.ENSP00000437790",
+        "gene_fusion" : 0,
+        "shared_name" : "CDH22 (interacts with) DSCAML1",
+        "database_annotated" : 0.0,
+        "name" : "CDH22 (interacts with) DSCAML1",
+        "interaction" : "interacts with",
+        "SUID" : 1183,
+        "experimentally_determined_interaction" : 0.045,
+        "coexpression" : 0.206,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2213",
+        "source" : "1181",
+        "target" : "1186",
+        "node2_string_id" : "9606.ENSP00000367151",
+        "neighborhood_on_chromosome" : 0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.275,
+        "automated_textmining" : 0.238,
+        "node1_string_id" : "9606.ENSP00000315465",
+        "gene_fusion" : 0,
+        "shared_name" : "DSCAML1 (interacts with) PCDH17",
+        "database_annotated" : 0.0,
+        "name" : "DSCAML1 (interacts with) PCDH17",
+        "interaction" : "interacts with",
+        "SUID" : 2213,
+        "experimentally_determined_interaction" : 0.045,
+        "coexpression" : 0.084,
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}

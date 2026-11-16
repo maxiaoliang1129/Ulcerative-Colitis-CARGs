@@ -1,0 +1,2 @@
+Comparison	delta_AUC	CI_low	CI_high	crosses_zero
+I - NonI	0.173430361680658	0.143084428527937	0.204359910610458	FALSE

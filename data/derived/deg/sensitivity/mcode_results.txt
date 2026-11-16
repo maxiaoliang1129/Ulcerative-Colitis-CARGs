@@ -1,0 +1,15 @@
+MCODE App Results
+Date: 2026年11月5日 下午6:05:01
+
+Parameters:
+   Network Scoring:
+      Include Loops: false  Degree Cutoff: 2
+   Cluster Finding:
+      Node Score Cutoff: 0.2  Haircut: true  Fluff: false  K-Core: 2  Max. Depth from Seed: 100
+
+Cluster	Score (Density*#Nodes)	Nodes	Edges	Node IDs
+1	8.364	12	46	CXCL8, IL1A, SAA1, CCL2, FAP, PDPN, THY1, FPR2, IL1RN, IL6, CCL11, IL1B
+2	4.667	7	14	SERPINE1, POSTN, SPP1, COL1A1, SELE, MMP12, SELP
+3	4	7	12	SOCS1, IDO1, CCR8, IL21, CCR3, CTLA4, IL2RA
+4	4	4	6	CLDN14, CLDN2, CLDN18, CLDN8
+5	3	3	3	DSG3, PKP1, TRIM29

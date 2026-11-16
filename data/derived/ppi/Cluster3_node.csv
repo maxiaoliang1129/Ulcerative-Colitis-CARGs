@@ -1,0 +1,5 @@
+"AverageShortestPathLength","BetweennessCentrality","ClosenessCentrality","ClusteringCoefficient","Degree","Eccentricity","IsSingleNode","MCODE::Clusters (1)","MCODE::Node Status (1)","MCODE::Score (1)","name","NeighborhoodConnectivity","NumberOfDirectedEdges","NumberOfUndirectedEdges","PartnerOfMultiEdgedNodePairs","Radiality","selected","SelfLoops","shared name","Stress","TopologicalCoefficient"
+"1.0","0.16666666666666666","1.0","0.6666666666666666","3","1","false","Cluster 3","Clustered","12.235294117647058","CEACAM6","2.3333333333333335","0","3","0","1.0","false","0","CEACAM6","2","0.7777777777777778"
+"1.3333333333333333","0.0","0.75","1.0","2","2","false","Cluster 3","Clustered","14.0","COL6A3","3.0","0","2","0","0.888888888888889","false","0","COL6A3","0","1.0"
+"1.0","0.16666666666666666","1.0","0.6666666666666666","3","1","false","Cluster 3","Clustered","12.426470588235295","COL7A1","2.3333333333333335","0","3","0","1.0","false","0","COL7A1","2","0.7777777777777778"
+"1.3333333333333333","0.0","0.75","1.0","2","2","false","Cluster 3","Seed","14.313725490196079","HAS1","3.0","0","2","0","0.888888888888889","false","0","HAS1","0","1.0"
